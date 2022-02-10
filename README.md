@@ -10,5 +10,9 @@ Flutter is a cross-platform UI toolkit that is designed to allow code reuse acro
 Flutter enables you to develop mobile, web and desktop apps using the same codebase and Firebase is the backend as a service for data storage and heavy-duty computational processing which empowers all the online and offline features provided by your apps. One key feature is Firebase ML (Machine Learning).
 
 # The Interfaces
+![App Design Plan Brainstorm Classroom Worksheet (1)](https://user-images.githubusercontent.com/75914561/153385754-91148259-a118-4bf0-a831-dfd03a52e43c.png)
+
+# Final rapport
+[rapport Application.pdf](https://github.com/stefanugo/Real-time-object-detection-app-with-flutter/files/8040169/rapport.Application.pdf)
 
 
